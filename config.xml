@@ -1,0 +1,15 @@
+<config>
+  <!-- Folding Slot Configuration -->
+  <smp v='false'/>
+
+  <!-- Slot Control -->
+  <power v='FULL'/>
+
+  <!-- User Information -->
+  <passkey v='c0db3e9b730883d4c0db3e9b730883d4'/>
+  <team v='225605'/>
+  <user v='Maximilian_Mitchell'/>
+
+  <!-- Folding Slots -->
+  <slot id='1' type='GPU'/>
+</config>
