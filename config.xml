@@ -1,7 +1,4 @@
 <config>
-  <!-- Folding Slot Configuration -->
-  <smp v='false'/>
-
   <!-- Slot Control -->
   <power v='FULL'/>
 
